@@ -32,9 +32,5 @@ password: ``admin``
 The interface should look like this:
 ![Alt text](greenbone.png?raw=true)
 
-## 4: 
-Create a new target (under Configuration) as shown
-![Alt text](newtarget.png?raw=true)
-
-Create a new task (under Scans -> Tasks) as shown
-![Alt text](newtask.png?raw=true)
+## 4: Run a vulnerability scan
+Navigate to Scans -> Tasks and use the task wizard with default settings to run a vulnerability scan
