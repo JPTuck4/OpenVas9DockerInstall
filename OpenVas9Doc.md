@@ -29,3 +29,4 @@ Log in with
 username: ``admin``
 password: ``admin``
 
+![Alt text](greenbone.jpg?raw=true)
