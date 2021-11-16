@@ -29,4 +29,5 @@ Log in with
 username: ``admin``
 password: ``admin``
 
-![Alt text](greenbone.jpg?raw=true)
+The interface should look like this:
+![Alt text](greenbone.png?raw=true)
