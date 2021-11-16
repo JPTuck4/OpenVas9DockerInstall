@@ -30,7 +30,13 @@ username: ``admin``
 password: ``admin``
 
 The interface should look like this:
+
 ![Alt text](greenbone.png?raw=true)
 
 ## 4: Run a vulnerability scan
 Navigate to Scans -> Tasks and use the task wizard with default settings to run a vulnerability scan
+
+See Results:
+
+![Alt text](results.png?raw=true)
+
